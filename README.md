@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @karstensfriis
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning unreal engine and blender
-- 💞️ I’m looking to collaborate on indie games
+- Yo
 
 <!---
 karstensfriis/karstensfriis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
